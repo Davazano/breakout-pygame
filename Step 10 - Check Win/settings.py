@@ -1,0 +1,19 @@
+import pygame
+import sys
+import time
+
+# Constants
+GAME_TITLE = "Break Out"
+SCREEN_WIDTH, SCREEN_HEIGHT = 800, 600
+FPS = 60
+GRID_SIZE = 40
+HALF_GRID_SIZE = 20
+POINTS = 100
+BALL_SPEED = 250
+TEAL = (0, 53, 53)
+ORANGE = (250, 158, 32)
+DARK_ORANGE = (250, 110, 67)
+BLUE = (67, 237, 250)
+LIGHT_GRAY = (225, 225, 225)
+DARK_GRAY = (50, 50, 50)
+WHEAT = (245, 222, 179)
